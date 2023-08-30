@@ -1,9 +1,9 @@
-(https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/372994002_319136563863965_8656508113966876233_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHDc4DmRfx9BE3w8y6kWZfjMA0KPC9OTrswDQo8L05Ou7hYqAD-HoAbI6SpHQXgr8AtiLAajNPdOUNjiLL9Nr9j&_nc_ohc=09tcEIiHqqgAX_AqFe1&_nc_ht=scontent.fdac7-1.fna&oh=00_AfAnPVNOds7qElWY_R9w4TG2sD8LBDhPBsYqy0ErltWv5g&oe=64F4F606)
+![Web Developer | web Designer | wordpress Expart](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/372994002_319136563863965_8656508113966876233_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHDc4DmRfx9BE3w8y6kWZfjMA0KPC9OTrswDQo8L05Ou7hYqAD-HoAbI6SpHQXgr8AtiLAajNPdOUNjiLL9Nr9j&_nc_ohc=09tcEIiHqqgAX_AqFe1&_nc_ht=scontent.fdac7-1.fna&oh=00_AfAnPVNOds7qElWY_R9w4TG2sD8LBDhPBsYqy0ErltWv5g&oe=64F4F606)
 
 
 # Hi there 👋, Miraj Ahamed
 ## Web Developer | web Designer | wordpress Expart
-![Web Developer | web Designer | wordpress Expart]
+
 
 I'm Miraj, a passionate website designer and developer with a flair for turning creative visions into captivating online realities. With a strong blend of design sensibilities and coding expertise, I specialize in building user-centric websites that not only look stunning but also function flawlessly.
 
